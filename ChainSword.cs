@@ -7,7 +7,7 @@ namespace ChainSword
     public class ChainSword : BaseUnityPlugin
     {
         private const string ModName = "ChainSword";
-        private const string ModVersion = "0.0.3";
+        private const string ModVersion = "0.0.4";
         private const string ModGUID = "org.bepinex.plugins.chainsword";
 
         public void Awake()
